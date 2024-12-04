@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/acme-assessment-/static/css/main.e6c13ad2.css",
+    "main.js": "/acme-assessment-/static/js/main.6a6102ad.js",
+    "static/js/453.db04b816.chunk.js": "/acme-assessment-/static/js/453.db04b816.chunk.js",
+    "static/media/acme.png": "/acme-assessment-/static/media/acme.313a8ebc6843c0f033c2.png",
+    "index.html": "/acme-assessment-/index.html",
+    "main.e6c13ad2.css.map": "/acme-assessment-/static/css/main.e6c13ad2.css.map",
+    "main.6a6102ad.js.map": "/acme-assessment-/static/js/main.6a6102ad.js.map",
+    "453.db04b816.chunk.js.map": "/acme-assessment-/static/js/453.db04b816.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6a6102ad.js"
+  ]
+}
